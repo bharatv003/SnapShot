@@ -1,4 +1,5 @@
 from node
+maintainer bharat
 copy . ./app
 workdir ./app
 run npm run start
